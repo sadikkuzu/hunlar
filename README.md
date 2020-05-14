@@ -1,6 +1,8 @@
-## [TR] Hunlar - CS:GO server hosted by JrPadawan - https://www.twitch.tv/jrpadawan
+## [TR] Hunlar - CS:GO server hosted by JrPadawan - www.twitch.tv/jrpadawan
 
 CS:GO server uzerinde oyun takibi
+
+https://www.twitch.tv/jrpadawan
 
 DESTEKLE: https://www.bynogame.com/destekle/jrpadawan 
 
