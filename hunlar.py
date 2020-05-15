@@ -11,7 +11,7 @@ hun = folder + hun
 
 
 try:
-    tmp = "~/hunlar/kimler-oynuyor-simdi.tmp"
+    tmp = "/root/hunlar/kimler-oynuyor-simdi.tmp"
     f = open(tmp, 'r')
     satir = f.readline()
     print(satir, end='')
