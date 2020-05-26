@@ -10,4 +10,5 @@ cmp --silent ~/hunlar/kimler-oynuyor-cron.tmp ~/hunlar/kimler-oynuyor-simdi.tmp 
  bash ~/hunlar/kimler-oynuyor-simdi.sh >> ~/hunlar/kimler-oynuyor-simdi.txt
  for i in {1..2}; do echo " " >> ~/hunlar/kimler-oynuyor-simdi.txt; done
  cat ~/hunlar/kimler-oynuyor-simdi.txt >> ~/hunlar/kimler-oynuyor-log.txt
+ python3 ~/hunlar/telegram_send.py
 }
