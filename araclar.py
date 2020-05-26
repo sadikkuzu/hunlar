@@ -2,6 +2,8 @@
 # SADIK KUZU (c) 2020
 # CS:GO config dosyalarini islemek icin arac gerecler
 
+simdi = "/root/hunlar/kimler-oynuyor-simdi.txt"
+
 def t_nt(line):
     return str(line).replace('\t', ' ').replace('\n', '\t')
 

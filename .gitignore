@@ -144,3 +144,7 @@ cython_debug/
 
 ## Jetbrains
 .idea/
+
+
+## Hunlar
+telegram_credentials.py
