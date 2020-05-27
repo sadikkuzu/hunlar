@@ -148,3 +148,4 @@ cython_debug/
 
 ## Hunlar
 telegram_credentials.py
+!requirements.txt 
