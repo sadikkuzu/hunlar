@@ -20,7 +20,7 @@ except:
     pass
 
 
-print(hun)
+# print(hun)
 f = open(hun, 'r')
 lines = f.readlines()
 
