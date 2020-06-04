@@ -1,1 +1,1 @@
-ls -ltrh /home/csgo/csgo/csgo | grep backup_round | tail -n 1
+ls -ltrh /home/csgo/csgo/csgo | grep backup_round | tail -n 1 | awk '{print $5,$6,$7,$8,$9}'
